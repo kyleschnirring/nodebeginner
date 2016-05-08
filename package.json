@@ -1,0 +1,21 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0"
+  },
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
